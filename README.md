@@ -1,4 +1,3 @@
-```markdown
 # Reminder App with Notifications ⏰
 
 A **reminder application** built with **Flutter** that stores reminders locally using **SQLite** and sends notification alerts using **Flutter Local Notifications**. This project demonstrates how to manage local databases and trigger notifications for reminders in a Flutter app.
@@ -115,4 +114,4 @@ For any questions or suggestions, reach out to me:
 ---
 
 [![Visitor Count](https://visitcount.itsvg.in/api?id=&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
-```
+
